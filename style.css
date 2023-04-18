@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.stats{
+    font-size: 1.3rem;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+    max-width: fit-content;
+    margin-inline: auto;
+    margin-top: 7dvh;
+}
+.tapbox{
+    background-color: rgba(127, 255, 212, 0.43);
+    position: fixed;
+    inset:0;
+}
