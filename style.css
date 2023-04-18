@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     overflow: hidden;
+    user-select: none;
 }
 .stats{
     font-size: 1.3rem;
